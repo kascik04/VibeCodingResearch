@@ -4,8 +4,8 @@ import '@@/core/devScripts';
 import { plugin } from './core/plugin';
 import './core/pluginRegister';
 import { createHistory } from './core/history';
-import { ApplyPluginsType } from 'C:/Users/kasick/Desktop/THỰC TẬP/Vibe_Coding/VibeCoding_Login/login-fe/node_modules/umi/node_modules/@umijs/runtime';
-import { renderClient } from 'C:/Users/kasick/Desktop/THỰC TẬP/Vibe_Coding/VibeCoding_Login/login-fe/node_modules/@umijs/renderer-react/dist/index.js';
+import { ApplyPluginsType } from 'C:/Users/kasick/Desktop/THỰC TẬP/VibeCodingResearch/login-fe/node_modules/umi/node_modules/@umijs/runtime';
+import { renderClient } from 'C:/Users/kasick/Desktop/THỰC TẬP/VibeCodingResearch/login-fe/node_modules/@umijs/renderer-react/dist/index.js';
 import { getRoutes } from './core/routes';
 
 

@@ -1,6 +1,6 @@
 // @ts-nocheck
 import React from 'react';
-import { ApplyPluginsType } from 'C:/Users/kasick/Desktop/THỰC TẬP/Vibe_Coding/VibeCoding_Login/login-fe/node_modules/umi/node_modules/@umijs/runtime';
+import { ApplyPluginsType } from 'C:/Users/kasick/Desktop/THỰC TẬP/VibeCodingResearch/login-fe/node_modules/umi/node_modules/@umijs/runtime';
 import * as umiExports from './umiExports';
 import { plugin } from './plugin';
 

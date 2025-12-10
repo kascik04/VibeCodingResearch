@@ -1,5 +1,5 @@
 // @ts-nocheck
-import { createBrowserHistory, History } from 'C:/Users/kasick/Desktop/THỰC TẬP/Vibe_Coding/VibeCoding_Login/login-fe/node_modules/umi/node_modules/@umijs/runtime';
+import { createBrowserHistory, History } from 'C:/Users/kasick/Desktop/THỰC TẬP/VibeCodingResearch/login-fe/node_modules/umi/node_modules/@umijs/runtime';
 
 let options = {
   "basename": "/"

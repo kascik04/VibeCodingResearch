@@ -1,7 +1,7 @@
 // @ts-nocheck
 import React from 'react';
-import initialState from 'C:/Users/kasick/Desktop/THỰC TẬP/Vibe_Coding/VibeCoding_Login/login-fe/src/.umi/plugin-initial-state/models/initialState';
-import model0 from "C:/Users/kasick/Desktop/THỰC TẬP/Vibe_Coding/VibeCoding_Login/login-fe/src/models/auth";
+import initialState from 'C:/Users/kasick/Desktop/THỰC TẬP/VibeCodingResearch/login-fe/src/.umi/plugin-initial-state/models/initialState';
+import model0 from "C:/Users/kasick/Desktop/THỰC TẬP/VibeCodingResearch/login-fe/src/models/auth";
 // @ts-ignore
 import Dispatcher from './helpers/dispatcher';
 // @ts-ignore
